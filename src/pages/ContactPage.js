@@ -1,3 +1,5 @@
+//Todo: setup back end to be able to send emails
+
 import React from 'react';
 import Hero from '../components/Hero';
 import Content from '../components/Content';

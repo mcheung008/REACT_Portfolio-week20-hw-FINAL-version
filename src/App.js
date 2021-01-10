@@ -15,7 +15,7 @@ import './App.css';
 
 
 class App extends React.Component {
-
+//Todo: line 30 contact email and phone needs further customizing 
   constructor(props) {
     super(props);
     this.state = {
@@ -27,7 +27,7 @@ class App extends React.Component {
       ],
       home: {
         title: "Welcome to my portfolio!",
-        subTitle: "",
+        subTitle: "Contact me: 📧mcheung008@gmail.com --- 📱541-206-7951",
         text: "Check out some of my projects below and always feel free to contact me with any questions or critiques you may have. My door (and email) are always open."
       },
       about: {
