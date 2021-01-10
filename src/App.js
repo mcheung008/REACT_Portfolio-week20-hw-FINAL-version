@@ -7,9 +7,11 @@ import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
+import Header from './components/Header';
 
 
 import './App.css';
+
 
 class App extends React.Component {
 
@@ -24,8 +26,8 @@ class App extends React.Component {
       ],
       home: {
         title: "Welcome to my portfolio!",
-        subTitle: "Based in Eugene, Oregon. I've been helping many clients with their startups and maintaining their online presence.",
-        text: "Feel free to contact me with any questions you may have. My door (and email) are always open."
+        subTitle: "Based in Eugene, Oregon. I' am an aspiring software engineer who's into all things tech and always striving to learn new things.",
+        text: "Check out some of my projects below and always feel free to contact me with any questions or critiques you may have. My door (and email) are always open."
       },
       about: {
         title: "About me",
@@ -41,6 +43,8 @@ class App extends React.Component {
       <Router>
 
         <Container className="p-0" fluid={true}>
+
+          <Header />
 
         <Navbar className="border-bottom" bg="transparent" expand="lg"> 
           <Navbar.Brand>Michael Cheung</Navbar.Brand>
