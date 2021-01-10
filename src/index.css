@@ -39,6 +39,12 @@ code {
   margin: 0px;
 }
 
-Header {
-  text-align: center;
+.success-msg {
+  color: green;
+  padding: 10px 15px;
+}
+
+.err-msg {
+  color: red;
+  padding: 10px 15px;
 }
