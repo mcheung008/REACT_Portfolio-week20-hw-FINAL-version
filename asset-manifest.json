@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5008db36.chunk.css",
+    "main.js": "/static/js/main.c7479d96.chunk.js",
+    "main.js.map": "/static/js/main.c7479d96.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.01d491d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.01d491d2.js.map",
+    "static/css/2.1f208231.chunk.css": "/static/css/2.1f208231.chunk.css",
+    "static/js/2.e2a34431.chunk.js": "/static/js/2.e2a34431.chunk.js",
+    "static/js/2.e2a34431.chunk.js.map": "/static/js/2.e2a34431.chunk.js.map",
+    "static/js/3.fbbcddc5.chunk.js": "/static/js/3.fbbcddc5.chunk.js",
+    "static/js/3.fbbcddc5.chunk.js.map": "/static/js/3.fbbcddc5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.5008db36.chunk.css.map": "/static/css/main.5008db36.chunk.css.map",
+    "static/js/2.e2a34431.chunk.js.LICENSE.txt": "/static/js/2.e2a34431.chunk.js.LICENSE.txt",
+    "static/media/employee.714e0889.png": "/static/media/employee.714e0889.png",
+    "static/media/filmConnector.8f8f098a.png": "/static/media/filmConnector.8f8f098a.png",
+    "static/media/fitness.32d81551.png": "/static/media/fitness.32d81551.png",
+    "static/media/password.028ab373.png": "/static/media/password.028ab373.png",
+    "static/media/sportsPage.4c77a79e.png": "/static/media/sportsPage.4c77a79e.png",
+    "static/media/wvw.9e6653a8.png": "/static/media/wvw.9e6653a8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01d491d2.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.e2a34431.chunk.js",
+    "static/css/main.5008db36.chunk.css",
+    "static/js/main.c7479d96.chunk.js"
+  ]
+}
