@@ -10,6 +10,7 @@ import ContactPage from './pages/ContactPage';
 import Header from './components/Header';
 
 
+
 import './App.css';
 
 
@@ -26,11 +27,11 @@ class App extends React.Component {
       ],
       home: {
         title: "Welcome to my portfolio!",
-        subTitle: "Based in Eugene, Oregon. I' am an aspiring software engineer who's into all things tech and always striving to learn new things.",
+        subTitle: "",
         text: "Check out some of my projects below and always feel free to contact me with any questions or critiques you may have. My door (and email) are always open."
       },
       about: {
-        title: "About me",
+        title: "About Me",
       },
       contact: {
           title: "Let's chat!"

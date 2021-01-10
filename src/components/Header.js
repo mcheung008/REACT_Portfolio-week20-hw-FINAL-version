@@ -1,10 +1,13 @@
 import React from 'react'
-import { Header, Image } from 'semantic-ui-react'
+import { Header, Icon } from 'semantic-ui-react'
 
-const HeaderImage = () => (
+const HeaderVulcan = () => (
   <Header as='h2'>
-    <Image circular src='https://react.semantic-ui.com/images/avatar/large/patrick.png' /> Michael Cheung
+    <Icon name='coffee' />
+    <Header.Content>Greetings, 🖖️</Header.Content>
   </Header>
 )
+// Couldnt
+export default HeaderVulcan
 
-export default HeaderImage
+
