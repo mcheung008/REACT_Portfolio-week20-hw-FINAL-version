@@ -4,7 +4,7 @@
 
 [Github Repo] (https://github.com/mcheung008)
 
-[My Portfolio] ()
+[My Portfolio] (https://mcheung008.github.io/REACT_Portfolio-week20-hw-FINAL-version/)
 
 ## Description
 
